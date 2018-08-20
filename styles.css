@@ -1,0 +1,30 @@
+html{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    margin: 0%;
+    padding: 0%;
+}
+canvas {
+    border: solid 1px black;
+    background: #000;
+}
+
+h1 {
+    color: pink;
+    position: absolute;
+    font-size: 70px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+.here {
+    margin-top: -36%;
+    left: 15%;
+} 
+
+.me {
+    margin-top: -29%;
+    left: 40%;
+}
