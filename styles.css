@@ -1,17 +1,23 @@
 html{
     margin: 0%;
     padding: 0%;
+    width: 100%;
+    overflow: none;
+    height: 100%;
 }
 body {
     margin: 0%;
     padding: 0%;
     width: 100%;
-    overflow: hidden;
+    overflow: none;
     height: 100%;
 }
 canvas {
     border: solid 1px black;
     background: #000;
+    width: 100%;
+    overflow: none;
+    height: 100%;
 }
 
 h1 {
